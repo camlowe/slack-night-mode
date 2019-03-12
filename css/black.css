@@ -721,7 +721,7 @@
   code { background-color: #000; border: 1px solid #363636; color: #e6e6e6; }
   code a.app_preview_link { background: #363636; border: 1px solid #545454; color: #e6e6e6; }
   .file_list_item.snippet .snippet_preview { background: #000; }
-  .snippet_preview, .snippet_body { background: #000; }
+  .snippet_preview, .snippet_body { background: #fff; }
   .snippet_preview pre, .snippet_body pre { color: #e6e6e6 !important; }
   .file_container .CodeMirror .CodeMirror-code > div::before, .file_container .CodeMirror .sssh-line::before, .file_container .sssh-code .CodeMirror-code > div::before, .file_container .sssh-code .sssh-line::before, .c-file_container .CodeMirror .CodeMirror-code > div::before, .c-file_container .CodeMirror .sssh-line::before, .c-file_container .sssh-code .CodeMirror-code > div::before, .c-file_container .sssh-code .sssh-line::before { background-color: #363636; border-right: 1px solid #363636; color: #949494; }
   .c-snippet .c-file_container { background-color: #222; }
